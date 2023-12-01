@@ -2,11 +2,11 @@ const Employee = ()=>{
     return(
         <>
         <div >
-            <div className=" ml-96 flex">
-        <div className=" bg-slate-400 w-56 mt-32 h-36"></div>
-        <div className="ml-96 bg-slate-400 w-56 mt-32 h-36"></div>
-        <div className="ml-96 bg-slate-400 w-56 mt-32 h-36"></div>
-        <div className="ml-96 bg-slate-400 w-56 mt-32 h-36"></div>
+            <div className=" ml-96 flex mt-32 h-36  ">
+        <div className=" bg-slate-400 w-56 p-20 m-5 rounded-lg"></div>
+        <div className=" bg-slate-400 w-56 p-20 m-5 rounded-lg"></div>
+        <div className=" bg-slate-400 w-56 p-20 m-5 rounded-lg"></div>
+        <div className=" bg-slate-400 w-56 p-20 m-5 rounded-lg"></div>
         </div>
             <div className="shadow-xl mt-24 rounded-xl w-[50rem] ml-96 h-96 p-10 m-10  bg-slate-400">
                 <h1>employee</h1>
