@@ -52,7 +52,7 @@ const Login = () => {
       {/* Left Section */}
       <div className="md:w-1/3">
         <div className="md:ml-28 mt-10 md:mt-40 md:w-80">
-          <h1 className="font-bold text-4xl p-4 m-2">Welcome Back!</h1>
+          <h1 className="font-bold  text-4xl p-4 m-2">Welcome Back!</h1>
           <p className="overflow-hidden break-words p-3 m-2">
             Lorem Ipsum is simply dummy text of the printing and typesetting
             industry. Lorem Ipsum has been the industry's standard dummy text
